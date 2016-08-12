@@ -1,6 +1,6 @@
 # HTML-Linker
 
-HTML-Linker is a jQuery-based on tool that allows you to create Links without using "<a> Tag".
+HTML-Linker is a jQuery-based on tool that allows you to create Links without using "a Tag".
 It Supports:
 1. Images
 2. List Items (li)
